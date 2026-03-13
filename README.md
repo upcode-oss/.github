@@ -57,9 +57,6 @@ https://www.up-code.dev
 📸 Instagram  
 https://instagram.com/upcode_dev
 
-🐙 GitHub (internal organization)  
-https://github.com/upcode-at
-
 ---
 
 <sub>
