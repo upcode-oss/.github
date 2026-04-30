@@ -58,7 +58,7 @@ Please open an issue before starting larger changes so we can coordinate develop
 https://www.up-code.dev
 
 📸 Instagram  
-https://instagram.com/upcode_dev
+https://instagram.com/upcode_oss
 
 ---
 
