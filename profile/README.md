@@ -1,6 +1,6 @@
 # Upcode Open Source
 <p align="center">
-  <img src="https://cdn.up-code.dev/img/logo_black.png" width="400">
+  <img src="https://cdn.up-code.dev/img/logo_oss_black.png" width="400">
 </p>
 
 Welcome to **Upcode OSS** – the open source ecosystem of **Upcode**.
